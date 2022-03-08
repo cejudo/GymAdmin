@@ -1,0 +1,2 @@
+# GymAdmin
+Simple GymAdmin API
